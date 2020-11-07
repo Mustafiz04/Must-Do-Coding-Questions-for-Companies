@@ -10,11 +10,12 @@ public class Bubble_Sort {
             for(int i = 0; i<n; i++){
                 arr[i] = sc.nextInt();
             }
-            bubbleSort(arr, n);
+            RBubbleSort(arr, n);
             print(arr);
         }
     }
 
+    // Iterative
     public static void bubbleSort(int[] arr, int n){
         for(int i = 0; i<n-1; i++){
             for(int j = 0; j<n-1-i; j++){
@@ -25,6 +26,22 @@ public class Bubble_Sort {
                 }
             }
         }
+    }
+
+    // Recurssive
+    public static void RBubbleSort(int[] arr, int n) {
+        if( n == 1 ){
+            return;
+        }
+        for(int i = 0; i<n-1; i++){
+            if( arr[i] > arr[i+1] ){
+                int temp = arr[i];
+                arr[i] = arr[i+1];
+                arr[i+1] = temp;
+            }
+        }
+
+        bubbleSort(arr, n-1);
     }
 
     public static void print(int[] arr){
