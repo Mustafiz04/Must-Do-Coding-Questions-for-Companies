@@ -36,3 +36,16 @@
 | 2 | [Selection Sort](https://practice.geeksforgeeks.org/problems/selection-sort/1) | [Selection Sort](./Selection_Sort.java/) | **Basic** |
 | 3 | [Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) | [Insertion Sort](./Insertion_Sort.java/) | **Easy** |
 | 4 | [Merge Sort](https://practice.geeksforgeeks.org/problems/merge-sort/1) | [Merge Sort](./Merge_Sort.java/) | **Easy** |
+
+<br><br>
+
+## String
+| S.No | Question Link | Solution | Difficulty |
+| ---------- | ----- | ------------ | ---------: |
+| 1 | [Longest Common Prefix in an Array](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array/0) | [Longest Common Prefix in an Array](./Longest_Common_Prefix_in_an_Array.java/) | **Medium** |
+| 2 | [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0) | [Reverse words in a given string](./Reverse_words_in_a_given_string.java/) | **Easy** |
+| 3 | [Permutations of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0) | [Permutations of a given string](./Permutations_of_a_given_string.java/) | **Basic** |
+| 4 | [Longest Palindrome in a String](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0#) | [Longest Palindrome in a String](./Longest_Palindrome_in_a_String.java/) | **Medium** |
+| 5 | [Roman Number to Integer](https://practice.geeksforgeeks.org/problems/roman-number-to-integer/0) | [Roman Number to Integer](./Roman_Number_to_Integer.java/) | **Easy** |
+| 6 | [Convert to Roman No ](https://practice.geeksforgeeks.org/problems/convert-to-roman-no/1) | [Convert to Roman No r](./Convert_to_Roman_No.java/) | **Easy** |
+| 7 | [Anagram](https://practice.geeksforgeeks.org/problems/anagram-1587115620/1) | [Anagram](./Anagram.java/) | **Easy** |
