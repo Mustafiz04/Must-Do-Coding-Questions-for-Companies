@@ -49,3 +49,15 @@
 | 5 | [Roman Number to Integer](https://practice.geeksforgeeks.org/problems/roman-number-to-integer/0) | [Roman Number to Integer](./Roman_Number_to_Integer.java/) | **Easy** |
 | 6 | [Convert to Roman No ](https://practice.geeksforgeeks.org/problems/convert-to-roman-no/1) | [Convert to Roman No r](./Convert_to_Roman_No.java/) | **Easy** |
 | 7 | [Anagram](https://practice.geeksforgeeks.org/problems/anagram-1587115620/1) | [Anagram](./Anagram.java/) | **Easy** |
+
+<br><br>
+
+## LinkedList
+| S.No | Question Link | Solution | Difficulty |
+| ---------- | ----- | ------------ | ---------: |
+| 1 | [Finding middle element in a linked list ](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) | [Finding middle element in a linked list ](./Finding_middle_element_in_a_linked_list.java/) | **Basic** |
+| 2 | [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1) | [Reverse a linked list](./Reverse_a_linked_list.java/) | **Easy** |
+| 3 | [Rotate a Linked List](https://practice.geeksforgeeks.org/problems/rotate-a-linked-list/1) | [Rotate a Linked List](./Rotate_a_Linked_List.java/) | **Easy** |
+| 4 | [Reverse a Linked List in groups of given size](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1) | [Reverse a Linked List in groups of given size](./Reverse_a_Linked_List_in_groups_of_given_size.java/) | **Medium** |
+| 5 | [Intersection Point in Y Shapped Linked Lists](https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1/) | [Intersection Point in Y Shapped Linked Lists](./Intersection_Point_in_Y_Shapped_Linked_Lists.java/) | **Medium** |
+| 6 | [Detect Loop in linked list](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1) | [Detect Loop in linked list](./Detect_Loop_in_linked_list.java/) | **Easy** |
