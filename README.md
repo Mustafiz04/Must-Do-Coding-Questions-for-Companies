@@ -21,9 +21,18 @@
 
 <br><br>
 
+## Searching Algo
+| S.No | Question Link | Solution | Difficulty |
+| ---------- | ----- | ------------ | ---------: |
+| 1 | [Linear Search](https://practice.geeksforgeeks.org/problems/searching-a-number0324/1) | [Linear Search](./Linear_Search.java/) | **Basic** |
+| 2 | [Binary Search](https://practice.geeksforgeeks.org/problems/who-will-win/0#) | [Binary Search](./Binary_Search.java/) | **Basic** |
+
+<br><br>
+
 ## Sorting Algo
 | S.No | Question Link | Solution | Difficulty |
 | ---------- | ----- | ------------ | ---------: |
 | 1 | [Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1) | [Bubble Sort](./Bubble_Sort.java/) | **Basic** |
 | 2 | [Selection Sort](https://practice.geeksforgeeks.org/problems/selection-sort/1) | [Selection Sort](./Selection_Sort.java/) | **Basic** |
-| 2 | [Merge Sort](https://practice.geeksforgeeks.org/problems/merge-sort/1) | [Merge Sort](./Merge_Sort.java/) | **Easy** |
+| 3 | [Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) | [Insertion Sort](./Insertion_Sort.java/) | **Easy** |
+| 4 | [Merge Sort](https://practice.geeksforgeeks.org/problems/merge-sort/1) | [Merge Sort](./Merge_Sort.java/) | **Easy** |
