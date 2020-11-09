@@ -66,3 +66,24 @@
 | 9 | [Add two numbers represented by linked lists](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1) | [Add two numbers represented by linked lists](./Add_two_numbers_represented_by_linked_lists.java/) | **Easy** |
 | 10 | [Check if Linked List is Palindrome](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1) | [Check if Linked List is Palindrome](./Check_if_Linked_List_is_Palindrome.java/) | **Easy** |
 | 11 | [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1) | [Flattening a Linked List](./Flattening_a_Linked_List.java/) | **Medium** |
+
+
+<br><br>
+
+## Tree
+| S.No | Question Link | Solution | Difficulty |
+| ---------- | ----- | ------------ | ---------: |
+| 1 | [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | [Left View of Binary Tree](./Left_View_of_Binary_Tree.java/) | **Easy** |
+| 2 | [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1) | [Check for BST](./Check_for_BST.java/) | **Medium** |
+| 3 | [Count Leaves in Binary Tree](https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) | [Count Leaves in Binary Tree](./Count_Leaves_in_Binary_Tree.java/) | **Basic** |
+| 4 | [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1) | [Diameter of Binary Tree](./Diameter_of_Binary_Tree.java/) | **Easy** |
+| 5 | [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1) | [Height of Binary Tree](./Height_of_Binary_Tree.java/) | **Basic** |
+| 6 | [Check for Balanced Tree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1) | [Check for Balanced Tree](./Check_for_Balanced_Tree.java/) | **Easy** |
+| 7 | [Symmetric Tree](https://practice.geeksforgeeks.org/problems/symmetric-tree/1) | [Symmetric Tree](./Symmetric_Tree.java/) | **Easy** |
+| 8 | [Identical Tree](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1) | [Identical Tree](./Identical_Tree.java/) | **Easy** |
+| 9 | [Connect Nodes at Same Level](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1#) | [Connect Nodes at Same Level](./Connect_Nodes_at_Same_Level.java/) | **Medium** |
+| 10 | [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1#) | [Level order traversal in spiral form](./Level_order_traversal_in_spiral_form.java/) | **Easy** |
+| 11 | [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1) | [Level order traversal](./Level_order_traversal.java/) | **Easy** |
+| 12 | [Inorder Traversal](https://practice.geeksforgeeks.org/problems/inorder-traversal/1) | [Inorder Traversal](./Inorder_Traversal.java/) | **Easy** |
+| 13 | [Preorder Traversal](https://practice.geeksforgeeks.org/problems/preorder-traversal/1) | [Preorder Traversal](./Preorder_Traversal.java/) | **Easy** |
+| 14 | [Postorder Traversal](https://practice.geeksforgeeks.org/problems/postorder-traversal/1) | [Postorder Traversal](./Postorder_Traversal.java/) | **Easy** |
