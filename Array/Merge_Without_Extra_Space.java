@@ -1,12 +1,7 @@
-// { Driver Code Starts
-//Initial Template for Java
-
 import java.util.*;
 import java.io.*;
-import java.io.*;
 
-class Sorting
-{
+class Sorting{
     public static void main (String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int t = Integer.parseInt(br.readLine().trim()); //Inputting the testcases
@@ -39,9 +34,6 @@ class Sorting
 	}
 }
 class MergeSort{
-    // Function to merge the two sorted arrays
-    // arr1[], arr2[]: two input arrays
-    // n, m: size of arr1[] and arr2[] respectively
     public static void merge(int arr1[], int arr2[], int n, int m) {
         for(int i = m - 1; i>= 0; i--){
             int j;

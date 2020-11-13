@@ -87,3 +87,4 @@
 | 12 | [Inorder Traversal](https://practice.geeksforgeeks.org/problems/inorder-traversal/1) | [Inorder Traversal](./Inorder_Traversal.java/) | **Easy** |
 | 13 | [Preorder Traversal](https://practice.geeksforgeeks.org/problems/preorder-traversal/1) | [Preorder Traversal](./Preorder_Traversal.java/) | **Easy** |
 | 14 | [Postorder Traversal](https://practice.geeksforgeeks.org/problems/postorder-traversal/1) | [Postorder Traversal](./Postorder_Traversal.java/) | **Easy** |
+| 15 | [Delete without head pointer](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1) | [Delete without head pointer](./Delete_without_head_pointer.java/) | **Medium** |

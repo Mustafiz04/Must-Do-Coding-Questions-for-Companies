@@ -33,5 +33,4 @@ class GFG {
 	    }
 	    return ans;
 	}
-	
 }
