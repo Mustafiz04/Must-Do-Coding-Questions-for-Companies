@@ -66,6 +66,7 @@
 | 9 | [Add two numbers represented by linked lists](https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1) | [Add two numbers represented by linked lists](./Add_two_numbers_represented_by_linked_lists.java/) | **Easy** |
 | 10 | [Check if Linked List is Palindrome](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1) | [Check if Linked List is Palindrome](./Check_if_Linked_List_is_Palindrome.java/) | **Easy** |
 | 11 | [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1) | [Flattening a Linked List](./Flattening_a_Linked_List.java/) | **Medium** |
+| 12 | [Given a linked list of 0s, 1s and 2s, sort it](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) | [Given a linked list of 0s, 1s and 2s, sort it](./Given_a_linked_list_of_0_1_and_2_sort_it.java/) | **Easy** |
 
 
 <br><br>

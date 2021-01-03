@@ -109,7 +109,7 @@ public void addToTheLast(Node node)
 }
 
 
-This is method only submission.  You only need to complete the method. */
+// This is method only submission.  You only need to complete the method. */
 class Intersect{
     int intersectPoint(Node headA, Node headB){
         int len1 = length(headA);
