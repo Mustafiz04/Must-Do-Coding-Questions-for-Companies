@@ -18,6 +18,7 @@
 | 12 | [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms/0) | [Minimum Platforms](./Minimum_Platforms.java/) | **Medium** |
 | 13 | [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | [Leaders in an array](./Leaders_in_an_array.java/) | **Easy** |
 | 14 | [Equilibrium Point](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1) | [Equilibrium Point](./Equilibrium_Point.java/) | **Easy** |
+| 15 | [Reverse Array](https://practice.geeksforgeeks.org/problems/reverse-a-string/1) | [Reverse array](./Reverse_array.java/) | **Easy** |
 
 <br><br>
 
@@ -67,6 +68,7 @@
 | 10 | [Check if Linked List is Palindrome](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1) | [Check if Linked List is Palindrome](./Check_if_Linked_List_is_Palindrome.java/) | **Easy** |
 | 11 | [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1) | [Flattening a Linked List](./Flattening_a_Linked_List.java/) | **Medium** |
 | 12 | [Given a linked list of 0s, 1s and 2s, sort it](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) | [Given a linked list of 0s, 1s and 2s, sort it](./Given_a_linked_list_of_0_1_and_2_sort_it.java/) | **Easy** |
+| 13 | [Remove duplicate](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1) | [Remove duplicate](./Remove_duplicate.java/) | **Easy** |
 
 
 <br><br>

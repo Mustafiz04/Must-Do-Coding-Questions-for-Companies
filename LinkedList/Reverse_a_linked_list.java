@@ -61,4 +61,17 @@ class ReverseLL{
         
         return prev;
     }
+
+    Node reverseListR(Node head){
+        if( head == null || head.next == null ){
+            return head;
+        }
+
+        Node rest = reverseListR(head.next);
+        head.next.next = head;
+
+        head.next = null;
+
+        return rest;
+    }
 }
