@@ -19,6 +19,7 @@
 | 13 | [Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | [Leaders in an array](./Leaders_in_an_array.java/) | **Easy** |
 | 14 | [Equilibrium Point](https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1) | [Equilibrium Point](./Equilibrium_Point.java/) | **Easy** |
 | 15 | [Reverse Array](https://practice.geeksforgeeks.org/problems/reverse-a-string/1) | [Reverse array](./Reverse_array.java/) | **Easy** |
+| 16 | [Sort 0 1 2](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | [Sort 0 1 2](./Sort_012.java/) | **Easy** |
 
 <br><br>
 
