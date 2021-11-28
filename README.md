@@ -22,6 +22,10 @@
 | 16 | [Sort 0 1 2](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | [Sort 0 1 2](./Array/Sort_012.java) | **Easy** |
 | 17 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Remove Duplicates from Sorted Array](./Array/Remove_Duplicates_from_Sorted_Array.java) | **Easy** |
 | 18 | [Rotate Array](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/646/) | [Rotate Array](./Array/Rotate_Array.java) | **Easy** |
+| 19 | [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1) | [Maximum of all subarrays of size k](./Array/Maximum_of_all_subarrays_of_size_k.java) | **Medium** |
+| 20 | [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/) | [Single Number](./Array/Single_Number.java) | **Easy** |
+| 21 | [Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/) | [Intersection of Two Arrays II](./Array/Intersection_of_Two_Arrays_II.java) | **Easy** |
+| 22 | [Count Triplets](https://practice.geeksforgeeks.org/problems/87f12e5c728d69a5322634776b54c75897d14daa/1) | [Count Triplets](./Array/Count_Triplets.java) | **Medium** |
 
 <br><br>
 
