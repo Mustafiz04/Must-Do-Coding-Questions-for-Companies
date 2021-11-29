@@ -26,6 +26,7 @@
 | 20 | [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/) | [Single Number](./Array/Single_Number.java) | **Easy** |
 | 21 | [Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/) | [Intersection of Two Arrays II](./Array/Intersection_of_Two_Arrays_II.java) | **Easy** |
 | 22 | [Count Triplets](https://practice.geeksforgeeks.org/problems/87f12e5c728d69a5322634776b54c75897d14daa/1) | [Count Triplets](./Array/Count_Triplets.java) | **Medium** |
+| 23 | [Help Classmates](https://practice.geeksforgeeks.org/problems/fab3dbbdce746976ba35c7b9b24afde40eae5a04/1) | [Help Classmates](./Array/Help_Classmates.java) | **Medium** |
 
 <br><br>
 
@@ -34,6 +35,8 @@
 | ---------- | ----- | ------------ | ---------: |
 | 1 | [Linear Search](https://practice.geeksforgeeks.org/problems/searching-a-number0324/1) | [Linear Search](./Searching/Linear_Search.java) | **Basic** |
 | 2 | [Binary Search](https://practice.geeksforgeeks.org/problems/who-will-win/0#) | [Binary Search](./Searching/Binary_Search.java) | **Basic** |
+| 3 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [First Bad Version](./Searching/Bad_Version.java) | **Easy** |
+| 4 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Search Insert Position](./Searching/Search_Insert_Position.java) | **Easy** |
 
 <br><br>
 
