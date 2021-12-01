@@ -107,3 +107,12 @@
 | S.No | Question Link | Solution | Difficulty |
 | ---------- | ----- | ------------ | ---------: |
 | 1 | [Find Nth root of M](https://practice.geeksforgeeks.org/problems/find-nth-root-of-m) | [Find Nth root of M](./Math/Find_Nth_root_of_M.java) | **Easy** |
+
+
+## Dynamic Programming
+| S.No | Question Link | Solution | Difficulty |
+| ---------- | ----- | ------------ | ---------: |
+| 1 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Min Cost Climbing Stairs](./DynamicProgramming/Min_Cost_Climbing_Stairs.java) | **Easy** |
+| 2 | [Coin Change](https://practice.geeksforgeeks.org/problems/coin-change2448/1#) | [Coin Change](./DynamicProgramming/Coin_Change.java) | **Medium** |
+| 3 | [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | [0 - 1 Knapsack Problem](./DynamicProgramming/0_1_Knapsack_Problem.java) | **Medium** |
+| 4 | [nCr](https://practice.geeksforgeeks.org/problems/ncr1019/1#) | [nCr](./DynamicProgramming/nCr.java) | **Medium** |
