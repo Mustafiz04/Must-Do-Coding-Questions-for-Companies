@@ -27,6 +27,8 @@
 | 21 | [Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/) | [Intersection of Two Arrays II](./Array/Intersection_of_Two_Arrays_II.java) | **Easy** |
 | 22 | [Count Triplets](https://practice.geeksforgeeks.org/problems/87f12e5c728d69a5322634776b54c75897d14daa/1) | [Count Triplets](./Array/Count_Triplets.java) | **Medium** |
 | 23 | [Help Classmates](https://practice.geeksforgeeks.org/problems/fab3dbbdce746976ba35c7b9b24afde40eae5a04/1) | [Help Classmates](./Array/Help_Classmates.java) | **Medium** |
+| 24 | [Maximum Product Subarray ](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1) | [Maximum Product Subarray ](./Array/Maximum_Product_Subarray.java) | **Medium** |
+| 25 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Reshape the Matrix](./Array/Reshape_the_Matrix.java) | **Easy** |
 
 <br><br>
 
@@ -116,3 +118,8 @@
 | 2 | [Coin Change](https://practice.geeksforgeeks.org/problems/coin-change2448/1#) | [Coin Change](./DynamicProgramming/Coin_Change.java) | **Medium** |
 | 3 | [0 - 1 Knapsack Problem](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | [0 - 1 Knapsack Problem](./DynamicProgramming/0_1_Knapsack_Problem.java) | **Medium** |
 | 4 | [nCr](https://practice.geeksforgeeks.org/problems/ncr1019/1#) | [nCr](./DynamicProgramming/nCr.java) | **Medium** |
+| 5 | [House Robber](https://leetcode.com/problems/house-robber/) | [House Robber](./DynamicProgramming/House_Robber.java) | **Medium** |
+| 6 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [House Robber II](./DynamicProgramming/House_Robber_II.java) | **Medium** |
+| 7 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Jump Game](./DynamicProgramming/Jump_Game.java) | **Medium** |
+| 8 | [Longest Increasing Subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1#) | [Longest Increasing Subsequence](./DynamicProgramming/Longest_Increasing_Subsequence.java) | **Medium** |
+| 9 | [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) | [Longest Common Subsequence](./DynamicProgramming/Longest_Common_Subsequence.java) | **Medium** |
