@@ -29,6 +29,7 @@
 | 23 | [Help Classmates](https://practice.geeksforgeeks.org/problems/fab3dbbdce746976ba35c7b9b24afde40eae5a04/1) | [Help Classmates](./Array/Help_Classmates.java) | **Medium** |
 | 24 | [Maximum Product Subarray ](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1) | [Maximum Product Subarray ](./Array/Maximum_Product_Subarray.java) | **Medium** |
 | 25 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Reshape the Matrix](./Array/Reshape_the_Matrix.java) | **Easy** |
+| 26 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Valid Sudoku](./Array/Valid_Sudoku.java) | **Easy** |
 
 <br><br>
 
@@ -123,3 +124,5 @@
 | 7 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Jump Game](./DynamicProgramming/Jump_Game.java) | **Medium** |
 | 8 | [Longest Increasing Subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1#) | [Longest Increasing Subsequence](./DynamicProgramming/Longest_Increasing_Subsequence.java) | **Medium** |
 | 9 | [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) | [Longest Common Subsequence](./DynamicProgramming/Longest_Common_Subsequence.java) | **Medium** |
+| 10 | [Maximum path sum in matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1) | [Maximum path sum in matrix](./DynamicProgramming/Maximum_path_sum_in_matrix.java) | **Medium** |
+| 11 | [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1) | [Edit Distance](./DynamicProgramming/Edit_Distance.java) | **Medium** |
