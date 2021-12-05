@@ -63,6 +63,7 @@
 | 5 | [Roman Number to Integer](https://practice.geeksforgeeks.org/problems/roman-number-to-integer/0) | [Roman Number to Integer](./String/Roman_Number_to_Integer.java) | **Easy** |
 | 6 | [Convert to Roman No ](https://practice.geeksforgeeks.org/problems/convert-to-roman-no/1) | [Convert to Roman No r](./String/Convert_to_Roman_No.java) | **Easy** |
 | 7 | [Anagram](https://practice.geesforgeeks.org/problems/anagram-1587115620/1) | [Anagram](./String/Anagram.java) | **Easy** |
+| 8 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](./String/Longest_Substring_Without_Repeating_Characters.java) | **Medium** |
 
 <br><br>
 
@@ -126,3 +127,4 @@
 | 9 | [Longest Common Subsequence](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) | [Longest Common Subsequence](./DynamicProgramming/Longest_Common_Subsequence.java) | **Medium** |
 | 10 | [Maximum path sum in matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1) | [Maximum path sum in matrix](./DynamicProgramming/Maximum_path_sum_in_matrix.java) | **Medium** |
 | 11 | [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1) | [Edit Distance](./DynamicProgramming/Edit_Distance.java) | **Medium** |
+| 12 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [House Robber III](./DynamicProgramming/House_Robber_III.java) | **Medium** |
