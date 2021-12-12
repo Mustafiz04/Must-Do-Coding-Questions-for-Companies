@@ -30,6 +30,7 @@
 | 24 | [Maximum Product Subarray ](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1) | [Maximum Product Subarray ](./Array/Maximum_Product_Subarray.java) | **Medium** |
 | 25 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Reshape the Matrix](./Array/Reshape_the_Matrix.java) | **Easy** |
 | 26 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Valid Sudoku](./Array/Valid_Sudoku.java) | **Easy** |
+| 27 | [Subarrays with equal 1s and 0s](https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1) | [Subarrays with equal 1s and 0s](./Array/Subarrays_with_equal_1s_and_0s.java) | **Medium** |
 
 <br><br>
 
@@ -64,6 +65,7 @@
 | 6 | [Convert to Roman No ](https://practice.geeksforgeeks.org/problems/convert-to-roman-no/1) | [Convert to Roman No r](./String/Convert_to_Roman_No.java) | **Easy** |
 | 7 | [Anagram](https://practice.geesforgeeks.org/problems/anagram-1587115620/1) | [Anagram](./String/Anagram.java) | **Easy** |
 | 8 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](./String/Longest_Substring_Without_Repeating_Characters.java) | **Medium** |
+| 9 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [First Unique Character in a String](./String/First_Unique_Character_in_a_String.java) | **Medium** |
 
 <br><br>
 
@@ -83,6 +85,11 @@
 | 11 | [Flattening a Linked List](https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1) | [Flattening a Linked List](./LinkedList/Flattening_a_Linked_List.java) | **Medium** |
 | 12 | [Given a linked list of 0s, 1s and 2s, sort it](https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) | [Given a linked list of 0s, 1s and 2s, sort it](.//LinkedListGiven_a_linked_list_of_0_1_and_2_sort_it.java) | **Easy** |
 | 13 | [Remove duplicate](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1) | [Remove duplicate](./LinkedList/Remove_duplicate.java) | **Easy** |
+| 14 | [Find length of Loop](https://practice.geeksforgeeks.org/problems/find-length-of-loop/1) | [Find length of Loop](./LinkedList/Find_length_of_Loop.java) | **Easy** |
+| 15 | [Remove duplicates from an unsorted linked list](https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1/) | [Remove duplicates from an unsorted linked list](./LinkedList/Remove_duplicates_from_an_unsorted.java) | **Easy** |
+| 16 | [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1#) | [First non-repeating character in a stream](./LinkedList/First_non-repeating_character_in_a_stream.java) | **Easy** |
+| 17 | [Segregate even and odd nodes in a Link List](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1) | [Segregate even and odd nodes in a Link List](./LinkedList/Segregate_even_and_odd_nodes.java) | **Easy** |
+| 18 | [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1) | [Delete nodes having greater value on right](./LinkedList/Delete_nodes_having_greater_value_on_right.java) | **Medium** |
 
 <br><br>
 
