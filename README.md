@@ -31,6 +31,8 @@
 | 25 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Reshape the Matrix](./Array/Reshape_the_Matrix.java) | **Easy** |
 | 26 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Valid Sudoku](./Array/Valid_Sudoku.java) | **Easy** |
 | 27 | [Subarrays with equal 1s and 0s](https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1) | [Subarrays with equal 1s and 0s](./Array/Subarrays_with_equal_1s_and_0s.java) | **Medium** |
+| 28 | [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1#) | [First non-repeating character in a stream](./Array/First_non-repeating_character_in_a_stream.java) | **Easy** |
+
 
 <br><br>
 
@@ -87,9 +89,16 @@
 | 13 | [Remove duplicate](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1) | [Remove duplicate](./LinkedList/Remove_duplicate.java) | **Easy** |
 | 14 | [Find length of Loop](https://practice.geeksforgeeks.org/problems/find-length-of-loop/1) | [Find length of Loop](./LinkedList/Find_length_of_Loop.java) | **Easy** |
 | 15 | [Remove duplicates from an unsorted linked list](https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1/) | [Remove duplicates from an unsorted linked list](./LinkedList/Remove_duplicates_from_an_unsorted.java) | **Easy** |
-| 16 | [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1#) | [First non-repeating character in a stream](./LinkedList/First_non-repeating_character_in_a_stream.java) | **Easy** |
+| 16 | [Reverse a Doubly Linked List](https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) | [Reverse a Doubly Linked List](./LinkedList/Reverse_a_Doubly_Linked_List.java) | **Easy** |
 | 17 | [Segregate even and odd nodes in a Link List](https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1) | [Segregate even and odd nodes in a Link List](./LinkedList/Segregate_even_and_odd_nodes.java) | **Easy** |
 | 18 | [Delete nodes having greater value on right](https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1) | [Delete nodes having greater value on right](./LinkedList/Delete_nodes_having_greater_value_on_right.java) | **Medium** |
+| 20 | [Add 1 to a number represented as linked list](https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1#) | [Add 1 to a number represented as linked list](./LinkedList/Add_1_to_a_number.java) | **Easy** |
+| 21 | [Merge Sort for Linked List](https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1#) | [Merge Sort for Linked List](./LinkedList/Merge_Sort_for_Linked_List.java) | **Easy** |
+| 22 | [Quick Sort on Linked List](https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1#) | [Quick Sort on Linked List](./LinkedList/Quick_Sort_on_Linked_List.java) | **Medium** |
+| 23 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Middle of the Linked List](./LinkedList/Middle_of_the_Linked_List.java) | **Medium** |
+| 24 | [Split a Circular Linked List into two halves](https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1) | [Split a Circular Linked List into two halves](./LinkedList/Split_a_Circular_Linked_List_into_two_halves.java) | **Medium** |
+| 25 | [Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1) | [[Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1)](./LinkedList/Clone_a_linked_list_with_next_and_random_pointer.java) | **Medium** |
+
 
 <br><br>
 
