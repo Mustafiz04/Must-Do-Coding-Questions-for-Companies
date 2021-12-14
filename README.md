@@ -72,7 +72,7 @@
 <br><br>
 
 ## LinkedList
-| S.No | Question Link | Solution | Difficulty |/LinkedList
+| S.No | Question Link | Solution | Difficulty |
 | ---------- | ----- | ------------ | ---------: |
 | 1 | [Finding middle element in a linked list ](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) | [Finding middle element in a linked list ](./LinkedList/Finding_middle_element_in_a_linked_list.java) | **Basic** |
 | 2 | [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1) | [Reverse a linked list](./LinkedList/Reverse_a_linked_list.java) | **Easy** |
