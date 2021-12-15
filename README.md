@@ -32,6 +32,7 @@
 | 26 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Valid Sudoku](./Array/Valid_Sudoku.java) | **Easy** |
 | 27 | [Subarrays with equal 1s and 0s](https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1) | [Subarrays with equal 1s and 0s](./Array/Subarrays_with_equal_1s_and_0s.java) | **Medium** |
 | 28 | [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1#) | [First non-repeating character in a stream](./Array/First_non-repeating_character_in_a_stream.java) | **Easy** |
+| 29 | [First negative integer in every window of size k](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | [First negative integer in every window of size k](./Array/First_negative_integer_in_every_window_of_size_k.java) | **Easy** |
 
 
 <br><br>
@@ -72,7 +73,7 @@
 <br><br>
 
 ## LinkedList
-| S.No | Question Link | Solution | Difficulty |/LinkedList
+| S.No | Question Link | Solution | Difficulty |
 | ---------- | ----- | ------------ | ---------: |
 | 1 | [Finding middle element in a linked list ](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) | [Finding middle element in a linked list ](./LinkedList/Finding_middle_element_in_a_linked_list.java) | **Basic** |
 | 2 | [Reverse a linked list](https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1) | [Reverse a linked list](./LinkedList/Reverse_a_linked_list.java) | **Easy** |
