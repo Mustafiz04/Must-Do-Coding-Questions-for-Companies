@@ -98,7 +98,10 @@
 | 22 | [Quick Sort on Linked List](https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1#) | [Quick Sort on Linked List](./LinkedList/Quick_Sort_on_Linked_List.java) | **Medium** |
 | 23 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Middle of the Linked List](./LinkedList/Middle_of_the_Linked_List.java) | **Medium** |
 | 24 | [Split a Circular Linked List into two halves](https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1) | [Split a Circular Linked List into two halves](./LinkedList/Split_a_Circular_Linked_List_into_two_halves.java) | **Medium** |
-| 25 | [Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1) | [[Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1)](./LinkedList/Clone_a_linked_list_with_next_and_random_pointer.java) | **Medium** |
+| 25 | [Clone a linked list with next and random pointer](https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1) | [Clone a linked list with next and random pointer](./LinkedList/Clone_a_linked_list_with_next_and_random_pointer.java) | **Medium** |
+| 26 | [Reverse Nodes in k-Group](https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1) | [Reverse Nodes in k-Group](./LinkedList/Reverse_Nodes_in_k-Group.java) | **Medium** |
+| 27 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Reverse Linked List II](./LinkedList/Reverse_Linked_List_II.java) | **Medium** |
+| 28 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Flatten Binary Tree to Linked List](./LinkedList/Flatten_Binary_Tree_to_Linked_List.java) | **Medium** |
 
 
 <br><br>
