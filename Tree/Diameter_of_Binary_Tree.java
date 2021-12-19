@@ -100,6 +100,7 @@ class GfG {
 }
 
 class Tree {
+    // O(n^2)
     int diameter(Node root) {
         if( root == null ){
             return 0;
@@ -121,4 +122,26 @@ class Tree {
         int rh = height(root.right);
         return Math.max(lh, rh) + 1;
     }
+
+
+    // Iterative O(n)
+    // int diameter(Node root) {
+    //     Height height = new Height();
+    //     return diameterUtil(root, height);
+    // }
+    
+    // int diameterUtil(Node root, Height height){
+    //     Height lh = new Height(), rh = new Height();
+        
+    //     if( root == null ){
+    //         height.h = 0;
+    //         return 0;
+    //     }
+    //     int lDiameter = diameterUtil(root.left, lh);
+    //     int rDiameter = diameterUtil(root.right, rh);
+        
+    //     height.h = 1 + Math.max(lh.h, rh.h);
+        
+    //     return Math.max(lh.h + rh.h + 1, Math.max(lDiameter, rDiameter) );
+    // }
 }

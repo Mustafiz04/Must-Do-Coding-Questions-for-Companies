@@ -108,5 +108,30 @@ class Solution {
         int lh = height(root.left);
         int rh = height(root.right);
         return Math.max(lh, rh) + 1;
+
+
+        // Iterative
+        
+        // Queue<Node> q = new LinkedList<>();
+        // q.add(node);
+        // q.add(null);
+        // int depth = 0;
+        // while( !q.isEmpty() ){
+        //     Node curr = q.poll();
+        //     if( curr == null ){
+        //         depth++;
+        //     }
+        //     if( curr != null ){
+        //         if( curr.left != null ){
+        //             q.add(curr.left);
+        //         }
+        //         if( curr.right != null ){
+        //             q.add(curr.right);
+        //         }
+        //     }else if(!q.isEmpty() ){
+        //         q.add(null);
+        //     }
+        // }
+        // return depth;
     }
 }

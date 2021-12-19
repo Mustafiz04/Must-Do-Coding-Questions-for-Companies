@@ -132,4 +132,24 @@ class Tree{
             }
         }
     }
+
+
+    // Recursive
+    
+    // int maxLevel = 0;
+    // ArrayList<Integer> leftView(Node root){
+    //     ArrayList<Integer> ans = new ArrayList<Integer>();
+    //     leftView(root, 1, ans);
+    //     return ans;
+    // }
+    
+    // void leftView(Node root, int level, ArrayList<Integer> ans){
+    //     if( root == null ) return;
+    //     if( maxLevel < level ){
+    //         ans.add(root.data);
+    //         maxLevel = level;
+    //     }
+    //     leftView(root.left, level + 1, ans);
+    //     leftView(root.right, level + 1, ans);
+    // }
 }

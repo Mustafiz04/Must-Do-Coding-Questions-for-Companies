@@ -102,6 +102,8 @@
 | 26 | [Reverse Nodes in k-Group](https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1) | [Reverse Nodes in k-Group](./LinkedList/Reverse_Nodes_in_k-Group.java) | **Medium** |
 | 27 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Reverse Linked List II](./LinkedList/Reverse_Linked_List_II.java) | **Medium** |
 | 28 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Flatten Binary Tree to Linked List](./LinkedList/Flatten_Binary_Tree_to_Linked_List.java) | **Medium** |
+| 29 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Swapping Nodes in a Linked List](./LinkedList/Swapping_Nodes_in_a_Linked_List.java) | **Medium** |
+| 30 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [Merge In Between Linked Lists](./LinkedList/Merge_In_Between_Linked_Lists.java) | **Medium** |
 
 
 <br><br>
@@ -124,6 +126,9 @@
 | 13 | [Preorder Traversal](https://practice.geeksforgeeks.org/problems/preorder-traversal/1) | [Preorder Traversal](./Tree/Preorder_Traversal.java) | **Easy** |
 | 14 | [Postorder Traversal](https://practice.geeksforgeeks.org/problems/postorder-traversal/1) | [Postorder Traversal](./Tree/Postorder_Traversal.java) | **Easy** |
 | 15 | [Delete without head pointer](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1) | [Delete without head pointer](./Tree/Delete_without_head_pointer.java) | **Medium** |
+| 16 | [Reverse Level Order Traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1#) | [Reverse Level Order Traversal](./Tree/Reverse_Level_Order_Traversal.java) | **Easy** |
+| 17 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](./Tree/Invert_Binary_Tree.java) | **Easy** |
+| 18 | [Right View of Binary Tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1#) | [Right View of Binary Tree](./Tree/Right_View_of_Binary_Tree.java) | **Easy** |
 
 
 
