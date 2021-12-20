@@ -129,6 +129,12 @@
 | 16 | [Reverse Level Order Traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1#) | [Reverse Level Order Traversal](./Tree/Reverse_Level_Order_Traversal.java) | **Easy** |
 | 17 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](./Tree/Invert_Binary_Tree.java) | **Easy** |
 | 18 | [Right View of Binary Tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1#) | [Right View of Binary Tree](./Tree/Right_View_of_Binary_Tree.java) | **Easy** |
+| 19 | [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1#) | [Top View of Binary Tree](./Tree/Top_View_of_Binary_Tree.java) | **Medium** |
+| 20 | [Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1#) | [Bottom View of Binary Tree](./Tree/Bottom_View_of_Binary_Tree.java) | **Medium** |
+| 21 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Minimum Depth of Binary Tree](./Tree/Minimum_Depth_of_Binary_Tree.java) | **Easy** |
+| 22 | [ZigZag Tree Traversal](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1) | [ZigZag Tree Traversal](./Tree/ZigZag_Tree_Traversal.java) | **Easy** |
+| 23 | [Diagonal Traversal of Binary Tree](https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1#) | [Diagonal Traversal of Binary Tree](./Tree/Diagonal_Traversal_of_Binary_Tree.java) | **Medium** |
+| 24 | [Check if Tree is Isomorphic](https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1) | [Check if Tree is Isomorphic](./Tree/Check_if_Tree_is_Isomorphic.java) | **Medium** |
 
 
 
