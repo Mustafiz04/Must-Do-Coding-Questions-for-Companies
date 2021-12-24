@@ -33,6 +33,7 @@
 | 27 | [Subarrays with equal 1s and 0s](https://practice.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1) | [Subarrays with equal 1s and 0s](./Array/Subarrays_with_equal_1s_and_0s.java) | **Medium** |
 | 28 | [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1#) | [First non-repeating character in a stream](./Array/First_non-repeating_character_in_a_stream.java) | **Easy** |
 | 29 | [First negative integer in every window of size k](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | [First negative integer in every window of size k](./Array/First_negative_integer_in_every_window_of_size_k.java) | **Easy** |
+| 29 | [Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring0624/1) | [Valid Substring](./Array/Valid_Substring.java) | **Easy** |
 
 
 <br><br>
@@ -112,29 +113,29 @@
 | S.No | Question Link | Solution | Difficulty |
 | ---------- | ----- | ------------ | ---------: |
 | 1 | [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | [Left View of Binary Tree](./Tree/Left_View_of_Binary_Tree.java) | **Easy** |
-| 2 | [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1) | [Check for BST](./Check_for_BST.java/) | **Medium** |
-| 3 | [Count Leaves in Binary Tree](https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) | [Count Leaves in Binary Tree](./Tree/Count_Leaves_in_Binary_Tree.java) | **Basic** |
-| 4 | [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1) | [Diameter of Binary Tree](./Tree/Diameter_of_Binary_Tree.java) | **Easy** |
-| 5 | [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1) | [Height of Binary Tree](./Tree/Height_of_Binary_Tree.java) | **Basic** |
-| 6 | [Check for Balanced Tree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1) | [Check for Balanced Tree](./Tree/Check_for_Balanced_Tree.java) | **Easy** |
-| 7 | [Symmetric Tree](https://practice.geeksforgeeks.org/problems/symmetric-tree/1) | [Symmetric Tree](./Tree/Symmetric_Tree.java) | **Easy** |
-| 8 | [Identical Tree](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1) | [Identical Tree](./Tree/Identical_Tree.java) | **Easy** |
-| 9 | [Connect Nodes at Same Level](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1#) | [Connect Nodes at Same Level](./Tree/Connect_Nodes_at_Same_Level.java) | **Medium** |
-| 10 | [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1#) | [Level order traversal in spiral form](./Tree/Level_order_traversal_in_spiral_form.java) | **Easy** |
-| 11 | [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1) | [Level order traversal](./Tree/Level_order_traversal.java) | **Easy** |
-| 12 | [Inorder Traversal](https://practice.geeksforgeeks.org/problems/inorder-traversal/1) | [Inorder Traversal](./Tree/Inorder_Traversal.java) | **Easy** |
-| 13 | [Preorder Traversal](https://practice.geeksforgeeks.org/problems/preorder-traversal/1) | [Preorder Traversal](./Tree/Preorder_Traversal.java) | **Easy** |
-| 14 | [Postorder Traversal](https://practice.geeksforgeeks.org/problems/postorder-traversal/1) | [Postorder Traversal](./Tree/Postorder_Traversal.java) | **Easy** |
-| 15 | [Delete without head pointer](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1) | [Delete without head pointer](./Tree/Delete_without_head_pointer.java) | **Medium** |
-| 16 | [Reverse Level Order Traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1#) | [Reverse Level Order Traversal](./Tree/Reverse_Level_Order_Traversal.java) | **Easy** |
-| 17 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](./Tree/Invert_Binary_Tree.java) | **Easy** |
-| 18 | [Right View of Binary Tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1#) | [Right View of Binary Tree](./Tree/Right_View_of_Binary_Tree.java) | **Easy** |
-| 19 | [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1#) | [Top View of Binary Tree](./Tree/Top_View_of_Binary_Tree.java) | **Medium** |
-| 20 | [Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1#) | [Bottom View of Binary Tree](./Tree/Bottom_View_of_Binary_Tree.java) | **Medium** |
-| 21 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Minimum Depth of Binary Tree](./Tree/Minimum_Depth_of_Binary_Tree.java) | **Easy** |
-| 22 | [ZigZag Tree Traversal](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1) | [ZigZag Tree Traversal](./Tree/ZigZag_Tree_Traversal.java) | **Easy** |
-| 23 | [Diagonal Traversal of Binary Tree](https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1#) | [Diagonal Traversal of Binary Tree](./Tree/Diagonal_Traversal_of_Binary_Tree.java) | **Medium** |
-| 24 | [Check if Tree is Isomorphic](https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1) | [Check if Tree is Isomorphic](./Tree/Check_if_Tree_is_Isomorphic.java) | **Medium** |
+| 2 | [Count Leaves in Binary Tree](https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) | [Count Leaves in Binary Tree](./Tree/Count_Leaves_in_Binary_Tree.java) | **Basic** |
+| 3 | [Diameter of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1) | [Diameter of Binary Tree](./Tree/Diameter_of_Binary_Tree.java) | **Easy** |
+| 4 | [Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1) | [Height of Binary Tree](./Tree/Height_of_Binary_Tree.java) | **Basic** |
+| 5 | [Check for Balanced Tree](https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1) | [Check for Balanced Tree](./Tree/Check_for_Balanced_Tree.java) | **Easy** |
+| 6 | [Symmetric Tree](https://practice.geeksforgeeks.org/problems/symmetric-tree/1) | [Symmetric Tree](./Tree/Symmetric_Tree.java) | **Easy** |
+| 7 | [Identical Tree](https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1) | [Identical Tree](./Tree/Identical_Tree.java) | **Easy** |
+| 8 | [Connect Nodes at Same Level](https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1#) | [Connect Nodes at Same Level](./Tree/Connect_Nodes_at_Same_Level.java) | **Medium** |
+| 9 | [Level order traversal in spiral form](https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1#) | [Level order traversal in spiral form](./Tree/Level_order_traversal_in_spiral_form.java) | **Easy** |
+| 10 | [Level order traversal](https://practice.geeksforgeeks.org/problems/level-order-traversal/1) | [Level order traversal](./Tree/Level_order_traversal.java) | **Easy** |
+| 11 | [Inorder Traversal](https://practice.geeksforgeeks.org/problems/inorder-traversal/1) | [Inorder Traversal](./Tree/Inorder_Traversal.java) | **Easy** |
+| 12 | [Preorder Traversal](https://practice.geeksforgeeks.org/problems/preorder-traversal/1) | [Preorder Traversal](./Tree/Preorder_Traversal.java) | **Easy** |
+| 13 | [Postorder Traversal](https://practice.geeksforgeeks.org/problems/postorder-traversal/1) | [Postorder Traversal](./Tree/Postorder_Traversal.java) | **Easy** |
+| 14 | [Delete without head pointer](https://practice.geeksforgeeks.org/problems/delete-without-head-pointer/1) | [Delete without head pointer](./Tree/Delete_without_head_pointer.java) | **Medium** |
+| 15 | [Reverse Level Order Traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1#) | [Reverse Level Order Traversal](./Tree/Reverse_Level_Order_Traversal.java) | **Easy** |
+| 16 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Invert Binary Tree](./Tree/Invert_Binary_Tree.java) | **Easy** |
+| 17 | [Right View of Binary Tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1#) | [Right View of Binary Tree](./Tree/Right_View_of_Binary_Tree.java) | **Easy** |
+| 18 | [Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1#) | [Top View of Binary Tree](./Tree/Top_View_of_Binary_Tree.java) | **Medium** |
+| 19 | [Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1#) | [Bottom View of Binary Tree](./Tree/Bottom_View_of_Binary_Tree.java) | **Medium** |
+| 20 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Minimum Depth of Binary Tree](./Tree/Minimum_Depth_of_Binary_Tree.java) | **Easy** |
+| 21 | [ZigZag Tree Traversal](https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1) | [ZigZag Tree Traversal](./Tree/ZigZag_Tree_Traversal.java) | **Easy** |
+| 22 | [Diagonal Traversal of Binary Tree](https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1#) | [Diagonal Traversal of Binary Tree](./Tree/Diagonal_Traversal_of_Binary_Tree.java) | **Medium** |
+| 23 | [Check if Tree is Isomorphic](https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1) | [Check if Tree is Isomorphic](./Tree/Check_if_Tree_is_Isomorphic.java) | **Medium** |
+| 24 | [Lowest Common Ancestor in a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1) | [Lowest Common Ancestor in a Binary Tree](./Tree/Lowest_Common_Ancestor_in_a_Binary_Tree.java) | **Medium** |
 
 
 
@@ -159,3 +160,15 @@
 | 10 | [Maximum path sum in matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1) | [Maximum path sum in matrix](./DynamicProgramming/Maximum_path_sum_in_matrix.java) | **Medium** |
 | 11 | [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1) | [Edit Distance](./DynamicProgramming/Edit_Distance.java) | **Medium** |
 | 12 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [House Robber III](./DynamicProgramming/House_Robber_III.java) | **Medium** |
+
+
+
+## Binary Search Tree
+| S.No | Question Link | Solution | Difficulty |
+| ---------- | ----- | ------------ | ---------: |
+| 1 | [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1) | [Check for BST](./Binary_Search_Tree/Check_for_BST.java) | **Medium** |
+| 2 | [Lowest Common Ancestor in a BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1) | [Lowest Common Ancestor in a BST](./Binary_Search_Tree/Lowest_Common_Ancestor_in_a_BST.java) | **Medium** |
+| 3 | [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1#) | [Largest BST](./Binary_Search_Tree/Largest_BST.java) | **Medium** |
+| 4 | [Insert a node in a BST](https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1#) | [Insert a node in a BST](./Binary_Search_Tree/Insert_a_node_in_a_BST.java) | **Basic** |
+| 5 | [Minimum element in BST](https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1) | [Minimum element in BST](./Binary_Search_Tree/Minimum_element_in_BST.java) | **Basic** |
+| 6 | [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1#) | [Count BST nodes that lie in a given range](./Binary_Search_Tree/Count_BST_nodes_that_lie_in_a_given_range.java) | **Basic** |
