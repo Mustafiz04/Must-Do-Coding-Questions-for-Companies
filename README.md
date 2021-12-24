@@ -34,6 +34,7 @@
 | 28 | [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1#) | [First non-repeating character in a stream](./Array/First_non-repeating_character_in_a_stream.java) | **Easy** |
 | 29 | [First negative integer in every window of size k](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | [First negative integer in every window of size k](./Array/First_negative_integer_in_every_window_of_size_k.java) | **Easy** |
 | 29 | [Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring0624/1) | [Valid Substring](./Array/Valid_Substring.java) | **Easy** |
+| 30 | [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/) | [The Celebrity Problem](./Array/The_Celebrity_Problem.java) | **Easy** |
 
 
 <br><br>
@@ -171,4 +172,4 @@
 | 3 | [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1#) | [Largest BST](./Binary_Search_Tree/Largest_BST.java) | **Medium** |
 | 4 | [Insert a node in a BST](https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1#) | [Insert a node in a BST](./Binary_Search_Tree/Insert_a_node_in_a_BST.java) | **Basic** |
 | 5 | [Minimum element in BST](https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1) | [Minimum element in BST](./Binary_Search_Tree/Minimum_element_in_BST.java) | **Basic** |
-| 6 | [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1#) | [Count BST nodes that lie in a given range](./Binary_Search_Tree/Count_BST_nodes_that_lie_in_a_given_range.java) | **Basic** |
+| 6 | [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1#) | [Count BST nodes that lie in a given range](./Binary_Search_Tree/Count_BST_nodes_that_lie_in_a_given_range.java) | **Medium** |
