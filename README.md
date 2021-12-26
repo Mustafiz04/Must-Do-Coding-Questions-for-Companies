@@ -140,6 +140,7 @@
 | 24 | [Lowest Common Ancestor in a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1) | [Lowest Common Ancestor in a Binary Tree](./Tree/Lowest_Common_Ancestor_in_a_Binary_Tree.java) | **Medium** |
 | 25 | [Binary Tree to DLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1#) | [Binary Tree to DLL](./Tree/Binary_Tree_to_DLL.java) | **Hard** |
 | 26 | [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | [Boundary Traversal of binary tree](./Tree/Boundary_Traversal_of_binary_tree.java) | **Medium** |
+| 27 | [Construct Tree from Inorder & Preorder](https://practice.geeksforgeeks.org/problems/construct-tree-1/1#) | [Construct Tree from Inorder & Preorder](./Tree/Construct_Tree_from_Inorder_&_Preorder.java) | **Medium** |
 
 
 
