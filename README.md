@@ -34,7 +34,8 @@
 | 28 | [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1#) | [First non-repeating character in a stream](./Array/First_non-repeating_character_in_a_stream.java) | **Easy** |
 | 29 | [First negative integer in every window of size k](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | [First negative integer in every window of size k](./Array/First_negative_integer_in_every_window_of_size_k.java) | **Easy** |
 | 29 | [Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring0624/1) | [Valid Substring](./Array/Valid_Substring.java) | **Easy** |
-| 30 | [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/) | [The Celebrity Problem](./Array/The_Celebrity_Problem.java) | **Easy** |
+| 30 | [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/) | [The Celebrity Problem](./Array/The_Celebrity_Problem.java) | **Medium** |
+| 31 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](./Array/Median_of_Two_Sorted_Arrays.java) | **Medium** |
 
 
 <br><br>
@@ -137,6 +138,7 @@
 | 22 | [Diagonal Traversal of Binary Tree](https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1#) | [Diagonal Traversal of Binary Tree](./Tree/Diagonal_Traversal_of_Binary_Tree.java) | **Medium** |
 | 23 | [Check if Tree is Isomorphic](https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1) | [Check if Tree is Isomorphic](./Tree/Check_if_Tree_is_Isomorphic.java) | **Medium** |
 | 24 | [Lowest Common Ancestor in a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1) | [Lowest Common Ancestor in a Binary Tree](./Tree/Lowest_Common_Ancestor_in_a_Binary_Tree.java) | **Medium** |
+| 25 | [Binary Tree to DLL](https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1#) | [Binary Tree to DLL](./Tree/Binary_Tree_to_DLL.java) | **Hard** |
 
 
 
