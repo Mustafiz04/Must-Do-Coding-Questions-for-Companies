@@ -142,6 +142,8 @@
 | 26 | [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | [Boundary Traversal of binary tree](./Tree/Boundary_Traversal_of_binary_tree.java) | **Medium** |
 | 27 | [Construct Tree from Inorder & Preorder](https://practice.geeksforgeeks.org/problems/construct-tree-1/1#) | [Construct Tree from Inorder & Preorder](./Tree/Construct_Tree_from_Inorder_&_Preorder.java) | **Medium** |
 | 28 | [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1#) | [Sum Tree](./Tree/Sum_Tree.java) | **Medium** |
+| 29 | [Duplicate subtree in Binary Tree](https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1) | [Duplicate subtree in Binary Tree](./Tree/Duplicate_subtree_in_Binary_Tree.java) | **Medium** |
+| 30 | [Duplicate Subtrees](https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1#) | [Duplicate Subtrees](./Tree/Duplicate_Subtrees.java) | **Medium** |
 
 
 
