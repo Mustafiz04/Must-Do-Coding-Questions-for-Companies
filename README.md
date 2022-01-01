@@ -144,6 +144,8 @@
 | 28 | [Sum Tree](https://practice.geeksforgeeks.org/problems/sum-tree/1#) | [Sum Tree](./Tree/Sum_Tree.java) | **Medium** |
 | 29 | [Duplicate subtree in Binary Tree](https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1) | [Duplicate subtree in Binary Tree](./Tree/Duplicate_subtree_in_Binary_Tree.java) | **Medium** |
 | 30 | [Duplicate Subtrees](https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1#) | [Duplicate Subtrees](./Tree/Duplicate_Subtrees.java) | **Medium** |
+| 31 | [Maximum sum of Non-adjacent nodes](https://practice.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1/) | [Maximum sum of Non-adjacent nodes](./Tree/Maximum_sum_of_Non-adjacent_nodes.java) | **Medium** |
+
 
 
 
@@ -180,3 +182,4 @@
 | 4 | [Insert a node in a BST](https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1#) | [Insert a node in a BST](./Binary_Search_Tree/Insert_a_node_in_a_BST.java) | **Basic** |
 | 5 | [Minimum element in BST](https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1) | [Minimum element in BST](./Binary_Search_Tree/Minimum_element_in_BST.java) | **Basic** |
 | 6 | [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1#) | [Count BST nodes that lie in a given range](./Binary_Search_Tree/Count_BST_nodes_that_lie_in_a_given_range.java) | **Medium** |
+| 7 | [Flatten BST To A Sorted List](https://www.codingninjas.com/codestudio/problems/flatten-bst-to-a-sorted-list_1169459) | [Flatten BST To A Sorted List](./Binary_Search_Tree/Flatten_BST_To_A_Sorted_List.java) | **Medium** |

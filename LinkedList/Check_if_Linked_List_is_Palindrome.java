@@ -80,20 +80,54 @@ class Is_LinkedList_Palindrom
 
 
 class Palindrome{
+    // boolean isPalindrome(Node head) {
+    //     Node n = head;
+    //     Stack<Integer> st = new Stack<Integer>();
+    //     while(n != null){
+    //         st.push(n.data);
+    //         n = n.next;
+    //     }
+    //     while( head != null ){
+    //         int curr = st.pop();
+    //         if( head.data != curr ){
+    //             return false;
+    //         }
+    //         head = head.next;
+    //     }
+    //     return true;
+    // } 
+    
     boolean isPalindrome(Node head) {
-        Node n = head;
-        Stack<Integer> st = new Stack<Integer>();
-        while(n != null){
-            st.push(n.data);
-            n = n.next;
+        if( head == null || head.next == null ) return true;
+        Node slow = head, fast = head;
+        while(slow != null && fast != null && fast.next != null && fast.next.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        while( head != null ){
-            int curr = st.pop();
-            if( head.data != curr ){
+        
+        Node nextToSlow = slow.next;
+        slow.next = null;
+        Node end = reverse(nextToSlow);
+        
+        while(end != null){
+            if( head.data != end.data ){
                 return false;
             }
             head = head.next;
+            end = end.next;
         }
         return true;
     }    
+    
+    Node reverse(Node head){
+        Node pre = null;
+        Node next = null;
+        while(head!=null){
+            next = head.next;
+            head.next = pre;
+            pre = head;
+            head = next;
+        }
+        return pre;
+    }
 }

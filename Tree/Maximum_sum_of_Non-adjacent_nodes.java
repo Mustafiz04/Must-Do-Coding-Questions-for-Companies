@@ -1,12 +1,15 @@
-import java.util.LinkedList;
-import java.util.Queue;
-import java.io.*;
+// { Driver Code Starts
+//Initial Template for Java
+
+//Initial Template for Java
+
 import java.util.*;
+import java.io.*;
+import java.lang.*;
 
 class Node {
   int data;
-  Node left;
-  Node right;
+  Node left, right;
 
   Node(int data) {
     this.data = data;
@@ -15,8 +18,7 @@ class Node {
   }
 }
 
-class GfG {
-
+class MaxSum {
   static Node buildTree(String str) {
 
     if (str.length() == 0 || str.charAt(0) == 'N') {
@@ -74,59 +76,48 @@ class GfG {
     return root;
   }
 
-  static void printInorder(Node root) {
-    if (root == null)
-      return;
-
-    printInorder(root.left);
-    System.out.print(root.data + " ");
-
-    printInorder(root.right);
-  }
-
-  public static void main(String[] args) throws Exception {
+  public static void main(String args[]) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
     int t = Integer.parseInt(br.readLine());
-    // Scanner sc = new Scanner(System.in);
+
     while (t > 0) {
       String s = br.readLine();
       Node root = buildTree(s);
-      BST g = new BST();
-      String X = br.readLine();
-      String arr[] = X.split(" ");
-      int x, y;
-      x = Integer.parseInt(arr[0]);
-      y = Integer.parseInt(arr[1]);
-      System.out.println(g.LCA(root, x, y).data);
+      Solution ob = new Solution();
+      int ans = ob.getMaxSum(root);
+      System.out.println(ans);
       t--;
-
     }
   }
 }
 
-class BST {
-  Node LCA(Node root, int n1, int n2) {
-    if (root == null)
-      return null;
 
-    // if (root.data < n1 && root.data < n2) {
-    //   return LCA(root.right, n1, n2);
-    // } else if (root.data > n1 && root.data > n2) {
-    //   return LCA(root.left, n1, n2);
-    // }
+class Pair {
+  int include, exclude;
 
-    while(root != null){
-      if( root.data < n1 && root.data < n2 ){
-          root = root.right;
-      }else if( root.data > n1 && root.data > n2 ){
-          root = root.left;
-      }else{
-          break;
-      }
-    }
+  Pair(int include, int exclude) {
+    this.include = include;
+    this.exclude = exclude;
+  }
+}
 
-    return root;
+class Solution {
+  static int getMaxSum(Node root) {
+    Pair ans = maxSum(root);
+    return Math.max(ans.include, ans.exclude);
   }
 
+  static Pair maxSum(Node root) {
+    if (root == null) {
+      return new Pair(0, 0);
+    }
+    Pair left = maxSum(root.left);
+    Pair right = maxSum(root.right);
+
+    int include = left.exclude + right.exclude + root.data;
+    int exclude = Math.max(left.include, left.exclude) + Math.max(right.include, right.exclude);
+
+    return new Pair(include, exclude);
+  }
 }
