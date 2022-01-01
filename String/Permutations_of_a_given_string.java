@@ -1,35 +1,62 @@
+
+// { Driver Code Starts
 import java.util.*;
+import java.lang.*;
+import java.io.*;
 
 class GFG {
-	public static void main (String[] args) {
-		Scanner sc = new Scanner(System.in);
-		int t = sc.nextInt();
-		while(t-- > 0){
-		    String str = sc.next();
-		    permutation(str, 0, str.length()-1 );
-		    System.out.println();
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		int t = Integer.parseInt(br.readLine().trim());
+		while (t-- > 0) {
+			String S = br.readLine().trim();
+			Solution obj = new Solution();
+			List<String> ans = obj.find_permutation(S);
+			for (int i = 0; i < ans.size(); i++) {
+				System.out.print(ans.get(i) + " ");
+			}
+			System.out.println();
+
 		}
-		sc.close();
 	}
-	
-	public static void permutation(String str, int l, int r){
-	    if( l == r ){
-	        System.out.print(str + " ");
-	        
-	    }
-	    for(int i = l; i<=r; i++){
-	        str = swap(str, l, i);
-	        permutation(str, l+1, r);
-	        str = swap(str, l, i);
-	    }
+}
+
+class Solution {
+	List<String> ans = new ArrayList<>();
+
+	public List<String> find_permutation(String S) {
+		int n = S.length();
+		if (n <= 1) {
+			ans.add(S);
+			return ans;
+		}
+
+		findPermutation(S, 0, n - 1);
+		Collections.sort(ans);
+		return ans;
 	}
-	
-	public static String swap(String str, int i, int j){
-	    char temp;
-	    char[] s = str.toCharArray();
-	    temp = s[i];
-	    s[i] = s[j];
-	    s[j] = temp;
-	    return String.valueOf(s);
+
+	void findPermutation(String s, int start, int end) {
+		if (start == end) {
+			ans.add(s);
+		} else {
+			for (int i = start; i <= end; i++) {
+				String str = reverse(s, start, i);
+				findPermutation(str, start + 1, end);
+				reverse(str, start, i);
+			}
+		}
+	}
+
+	String reverse(String str, int left, int right) {
+		char[] arr = str.toCharArray();
+		while (left <= right) {
+			char temp = arr[left];
+			arr[left] = arr[right];
+			arr[right] = temp;
+			left++;
+			right--;
+		}
+		return new String(arr);
 	}
 }
