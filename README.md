@@ -172,6 +172,7 @@
 | 10 | [Game with String](https://practice.geeksforgeeks.org/problems/game-with-string4100/1#) | [Game with String](./Stack-Queue/Game_with_String.java) | **Medium** |
 | 11 | [First negative integer in every window of size k](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | [First negative integer in every window of size k](./Stack-Queue/First_negative_integer_in_every_window_of_size_k.java) | **Medium** |
 | 12 | [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | [Reverse First K elements of Queue](./Stack-Queue/Reverse_First_K_elements_of_Queue.java) | **Easy** |
+| 13 | [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1) | [Maximum of all subarrays of size k](./Stack-Queue/Maximum_of_all_subarrays_of_size_k.java) | **Medium** |
 
 
 ## Dynamic Programming
