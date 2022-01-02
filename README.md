@@ -168,6 +168,8 @@
 | 6 | [Queue Reversal](https://practice.geeksforgeeks.org/problems/queue-reversal/1#) | [Queue Reversal](./Stack-Queue/Queue_Reversal.java) | **Easy** |
 | 7 | [Implement two stacks in an array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1) | [Implement two stacks in an array](./Stack-Queue/Implement_two_stacks_in_an_array.java) | **Easy** |
 | 8 | [Next Smaller Element](https://www.codingninjas.com/codestudio/problems/next-smaller-element_1112581) | [Next Smaller Element](./Stack-Queue/Next_Smaller_Element.java) | **Medium** |
+| 9 | [First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) | [First non-repeating character in a stream](./Stack-Queue/First_non-repeating_character_in_a_stream.java) | **Medium** |
+| 10 | [Game with String](https://practice.geeksforgeeks.org/problems/game-with-string4100/1#) | [Game with String](./Stack-Queue/Game_with_String.java) | **Medium** |
 
 
 ## Dynamic Programming
