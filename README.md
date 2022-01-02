@@ -167,6 +167,7 @@
 | 5 | [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1#) | [LRU Cache](./Stack-Queue/LRU_Cache.java) | **Easy** |
 | 6 | [Queue Reversal](https://practice.geeksforgeeks.org/problems/queue-reversal/1#) | [Queue Reversal](./Stack-Queue/Queue_Reversal.java) | **Easy** |
 | 7 | [Implement two stacks in an array](https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1) | [Implement two stacks in an array](./Stack-Queue/Implement_two_stacks_in_an_array.java) | **Easy** |
+| 8 | [Next Smaller Element](https://www.codingninjas.com/codestudio/problems/next-smaller-element_1112581) | [Next Smaller Element](./Stack-Queue/Next_Smaller_Element.java) | **Medium** |
 
 
 ## Dynamic Programming
