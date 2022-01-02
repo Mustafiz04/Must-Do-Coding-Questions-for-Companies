@@ -154,6 +154,7 @@
 | S.No | Question Link | Solution | Difficulty |
 | ---------- | ----- | ------------ | ---------: |
 | 1 | [Find Nth root of M](https://practice.geeksforgeeks.org/problems/find-nth-root-of-m) | [Find Nth root of M](./Math/Find_Nth_root_of_M.java) | **Easy** |
+| 2 | [Kth Smallest Factor](https://practice.geeksforgeeks.org/problems/kth-smallest-factor2345/1) | [Kth Smallest Factor](./Math/Kth_Smallest_Factor.java) | **Easy** |
 
 
 ## Stack and Queue
