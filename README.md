@@ -156,6 +156,13 @@
 | 1 | [Find Nth root of M](https://practice.geeksforgeeks.org/problems/find-nth-root-of-m) | [Find Nth root of M](./Math/Find_Nth_root_of_M.java) | **Easy** |
 
 
+## Stack and Queue
+| S.No | Question Link | Solution | Difficulty |
+| ---------- | ----- | ------------ | ---------: |
+| 1 | [Reverse Stack Using Recursion](https://www.codingninjas.com/codestudio/problems/reverse-stack-using-recursion_631875) | [Reverse Stack Using Recursion](./Math/Reverse_Stack_Using_Recursion.java) | **Easy** |
+| 2 | [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#) | [Sort a stack](./Math/Sort_a_stack.java) | **Easy** |
+
+
 ## Dynamic Programming
 | S.No | Question Link | Solution | Difficulty |
 | ---------- | ----- | ------------ | ---------: |
