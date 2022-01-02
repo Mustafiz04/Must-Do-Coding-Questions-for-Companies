@@ -164,6 +164,8 @@
 | 2 | [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#) | [Sort a stack](./Stack-Queue/Sort_a_stack.java) | **Easy** |
 | 3 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Merge Intervals](./Stack-Queue/Merge_Intervals.java) | **Medium** |
 | 4 | [Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring0624/1) | [Valid Substring](./Stack-Queue/Valid_Substring.java) | **Easy** |
+| 5 | [LRU Cache](https://practice.geeksforgeeks.org/problems/lru-cache/1#) | [LRU Cache](./Stack-Queue/LRU_Cache.java) | **Easy** |
+| 6 | [Queue Reversal](https://practice.geeksforgeeks.org/problems/queue-reversal/1#) | [Queue Reversal](./Stack-Queue/Queue_Reversal.java) | **Easy** |
 
 
 ## Dynamic Programming
