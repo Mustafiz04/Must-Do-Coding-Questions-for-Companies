@@ -159,8 +159,10 @@
 ## Stack and Queue
 | S.No | Question Link | Solution | Difficulty |
 | ---------- | ----- | ------------ | ---------: |
-| 1 | [Reverse Stack Using Recursion](https://www.codingninjas.com/codestudio/problems/reverse-stack-using-recursion_631875) | [Reverse Stack Using Recursion](./Math/Reverse_Stack_Using_Recursion.java) | **Easy** |
-| 2 | [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#) | [Sort a stack](./Math/Sort_a_stack.java) | **Easy** |
+| 1 | [Reverse Stack Using Recursion](https://www.codingninjas.com/codestudio/problems/reverse-stack-using-recursion_631875) | [Reverse Stack Using Recursion](./Stack-Queue/Reverse_Stack_Using_Recursion.java) | **Easy** |
+| 2 | [Sort a stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#) | [Sort a stack](./Stack-Queue/Sort_a_stack.java) | **Easy** |
+| 3 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Merge Intervals](./Stack-Queue/Merge_Intervals.java) | **Medium** |
+| 4 | [Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring0624/1) | [Valid Substring](./Stack-Queue/Valid_Substring.java) | **Easy** |
 
 
 ## Dynamic Programming
