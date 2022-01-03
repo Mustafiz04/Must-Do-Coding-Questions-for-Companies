@@ -173,6 +173,8 @@
 | 11 | [First negative integer in every window of size k](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | [First negative integer in every window of size k](./Stack-Queue/First_negative_integer_in_every_window_of_size_k.java) | **Medium** |
 | 12 | [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | [Reverse First K elements of Queue](./Stack-Queue/Reverse_First_K_elements_of_Queue.java) | **Easy** |
 | 13 | [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1) | [Maximum of all subarrays of size k](./Stack-Queue/Maximum_of_all_subarrays_of_size_k.java) | **Medium** |
+| 14 | [Rotten Oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1) | [Rotten Oranges](./Stack-Queue/Rotten_Oranges.java) | **Medium** |
+| 16 | [Special Stack](https://practice.geeksforgeeks.org/problems/special-stack/1) | [Special Stack](./Stack-Queue/Special_Stack.java) | **Medium** |
 
 
 ## Dynamic Programming
