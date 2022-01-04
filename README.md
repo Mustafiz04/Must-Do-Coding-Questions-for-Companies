@@ -178,6 +178,7 @@
 | 16 | [Queue using two Stacks](https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1#) | [Queue using two Stacks](./Stack-Queue/Queue_using_two_Stacks.java) | **Easy** |
 | 17 | [Flood fill Algorithm](https://practice.geeksforgeeks.org/problems/flood-fill-algorithm1856/1) | [Flood fill Algorithm](./Stack-Queue/Flood_fill_Algorithm.java) | **Medium** |
 | 18 | [Distance of nearest cell having 1](https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1) | [Distance of nearest cell having 1](./Stack-Queue/Distance_of_nearest_cell_having_1.java) | **Medium** |
+| 19 | [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1) | [Circular tour](./Stack-Queue/Circular_tour.java) | **Medium** |
 
 
 ## Dynamic Programming
