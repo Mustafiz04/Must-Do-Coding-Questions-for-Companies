@@ -72,6 +72,7 @@
 | 7 | [Anagram](https://practice.geesforgeeks.org/problems/anagram-1587115620/1) | [Anagram](./String/Anagram.java) | **Easy** |
 | 8 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](./String/Longest_Substring_Without_Repeating_Characters.java) | **Medium** |
 | 9 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [First Unique Character in a String](./String/First_Unique_Character_in_a_String.java) | **Medium** |
+| 10 | [Search Pattern](https://practice.geeksforgeeks.org/problems/8dcd25918295847b4ced54055eae35a8501181c1/1) | [Search Pattern](./String/Search_Pattern.java) | **Medium** |
 
 <br><br>
 
