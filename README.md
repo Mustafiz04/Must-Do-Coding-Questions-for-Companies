@@ -47,7 +47,7 @@
 | 2 | [Binary Search](https://practice.geeksforgeeks.org/problems/who-will-win/0#) | [Binary Search](./Searching/Binary_Search.java) | **Basic** |
 | 3 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [First Bad Version](./Searching/Bad_Version.java) | **Easy** |
 | 4 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Search Insert Position](./Searching/Search_Insert_Position.java) | **Easy** |
-| 5 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](./Searching/Search_in_Rotated_Sorted_Array.java) | **Easy** |
+| 5 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](./Searching/Search_in_Rotated_Sorted_Array.java) | **Medium** |
 
 <br><br>
 
@@ -157,6 +157,7 @@
 | ---------- | ----- | ------------ | ---------: |
 | 1 | [Find Nth root of M](https://practice.geeksforgeeks.org/problems/find-nth-root-of-m) | [Find Nth root of M](./Math/Find_Nth_root_of_M.java) | **Easy** |
 | 2 | [Kth Smallest Factor](https://practice.geeksforgeeks.org/problems/kth-smallest-factor2345/1) | [Kth Smallest Factor](./Math/Kth_Smallest_Factor.java) | **Easy** |
+| 3 | [Square root of a number](https://practice.geeksforgeeks.org/problems/square-root/1) | [Square root of a number](./Math/Square_root_of_a_number.java) | **Medium** |
 
 
 ## Stack and Queue
