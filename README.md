@@ -48,6 +48,7 @@
 | 3 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [First Bad Version](./Searching/Bad_Version.java) | **Easy** |
 | 4 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Search Insert Position](./Searching/Search_Insert_Position.java) | **Easy** |
 | 5 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](./Searching/Search_in_Rotated_Sorted_Array.java) | **Medium** |
+| 6 | [Find Missing And Repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1#) | [Find Missing And Repeating](./Searching/Find_Missing_And_Repeating.java) | **Medium** |
 
 <br><br>
 
