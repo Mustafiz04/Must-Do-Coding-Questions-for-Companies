@@ -47,6 +47,7 @@
 | 2 | [Binary Search](https://practice.geeksforgeeks.org/problems/who-will-win/0#) | [Binary Search](./Searching/Binary_Search.java) | **Basic** |
 | 3 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [First Bad Version](./Searching/Bad_Version.java) | **Easy** |
 | 4 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Search Insert Position](./Searching/Search_Insert_Position.java) | **Easy** |
+| 5 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](./Searching/Search_in_Rotated_Sorted_Array.java) | **Easy** |
 
 <br><br>
 
