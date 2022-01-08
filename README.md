@@ -49,6 +49,7 @@
 | 4 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Search Insert Position](./Searching/Search_Insert_Position.java) | **Easy** |
 | 5 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search in Rotated Sorted Array](./Searching/Search_in_Rotated_Sorted_Array.java) | **Medium** |
 | 6 | [Find Missing And Repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1#) | [Find Missing And Repeating](./Searching/Find_Missing_And_Repeating.java) | **Medium** |
+| 7 | [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1) | [Majority Element](./Searching/Majority_Element.java) | **Medium** |
 
 <br><br>
 
