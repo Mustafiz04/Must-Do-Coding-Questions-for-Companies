@@ -51,7 +51,8 @@
 | 6 | [Find Missing And Repeating](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1#) | [Find Missing And Repeating](./Searching/Find_Missing_And_Repeating.java) | **Medium** |
 | 7 | [Majority Element](https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1) | [Majority Element](./Searching/Majority_Element.java) | **Medium** |
 | 8 | [Searching in an array where adjacent differ by at most k](https://practice.geeksforgeeks.org/problems/searching-in-an-array-where-adjacent-differ-by-at-most-k0456/1/#) | [Searching in an array where adjacent differ by at most k](./Searching/Searching_in_an_array_where_adjacent_differ_by_at_most_k.java) | **Medium** |
-| 9 | [Find Pair Given Difference](hhttps://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1#) | [Find Pair Given Difference](./Searching/Find_Pair_Given_Difference.java) | **Easy** |
+| 9 | [Find Pair Given Difference](https://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1#) | [Find Pair Given Difference](./Searching/Find_Pair_Given_Difference.java) | **Easy** |
+| 10 | [Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1) | [Zero Sum Subarrays](./Searching/Zero_Sum_Subarrays.java) | **Medium** |
 
 <br><br>
 
