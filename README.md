@@ -85,6 +85,7 @@
 | 2 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](./Matrix/Search_a_2D_Matrix.java) | **Medium** |
 | 3 | [Row with max 1s](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1) | [Row with max 1s](./Matrix/Row_with_max_1s.java) | **Medium** |
 | 4 | [Sorted matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix2333/1) | [Sorted matrix](./Matrix/Sorted_matrix.java) | **Basic** |
+| 5 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Maximal Square](./Matrix/Maximal_Square.java) | **Medium** |
   
   <br><br>
 </details>
