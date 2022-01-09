@@ -88,6 +88,7 @@
 | 4 | [Sorted matrix](https://practice.geeksforgeeks.org/problems/sorted-matrix2333/1) | [Sorted matrix](./Matrix/Sorted_matrix.java) | **Basic** |
 | 5 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Maximal Square](./Matrix/Maximal_Square.java) | **Medium** |
 | 6 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Rotate Image](./Matrix/Rotate_Image.java) | **Medium** |
+| 7 | [Common Elements Present In All Rows Of Matrix](https://www.codingninjas.com/codestudio/problems/common-elements-present-in-all-rows-of-a-matrix_1118111?) | [Common Elements Present In All Rows Of Matrix](./Matrix/Common_Elements_Present_In_All_Rows_Of_Matrix.java) | **Medium** |
   
   <br><br>
 </details>
