@@ -1,7 +1,9 @@
 # Must Do Coding Questions in Java
 
 
-## Array
+<details>
+<summary style="font-size: 1.5em">Array</summary>
+  
 | S.No | Question Link | Solution | Difficulty |
 | ---------- | ----- | ------------ | ---------: |
 | 1 | [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0) | [Subarray with given sum](./Array/Subarray_with_given_sum.java) | **Easy** |
@@ -37,10 +39,14 @@
 | 30 | [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/) | [The Celebrity Problem](./Array/The_Celebrity_Problem.java) | **Medium** |
 | 31 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](./Array/Median_of_Two_Sorted_Arrays.java) | **Medium** |
 
+  <br><br>
+  
+</details>
 
-<br><br>
 
-## Searching Algo
+<details>
+<summary style="font-size: 1.5em">Searching Algo</summary>
+  
 | S.No | Question Link | Solution | Difficulty |
 | ---------- | ----- | ------------ | ---------: |
 | 1 | [Linear Search](https://practice.geeksforgeeks.org/problems/searching-a-number0324/1) | [Linear Search](./Searching/Linear_Search.java) | **Basic** |
@@ -53,20 +59,26 @@
 | 8 | [Searching in an array where adjacent differ by at most k](https://practice.geeksforgeeks.org/problems/searching-in-an-array-where-adjacent-differ-by-at-most-k0456/1/#) | [Searching in an array where adjacent differ by at most k](./Searching/Searching_in_an_array_where_adjacent_differ_by_at_most_k.java) | **Medium** |
 | 9 | [Find Pair Given Difference](https://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1#) | [Find Pair Given Difference](./Searching/Find_Pair_Given_Difference.java) | **Easy** |
 | 10 | [Zero Sum Subarrays](https://practice.geeksforgeeks.org/problems/zero-sum-subarrays1825/1) | [Zero Sum Subarrays](./Searching/Zero_Sum_Subarrays.java) | **Medium** |
+  <br><br>
+  
+</details>
 
-<br><br>
-
-## Sorting Algo
+<details>
+<summary style="font-size: 1.5em">Sorting Algo</summary>
+  
 | S.No | Question Link | Solution | Difficulty |
 | ---------- | ----- | ------------ | ---------: |
 | 1 | [Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1) | [Bubble Sort](./Sorting/Bubble_Sort.java) | **Basic** |
 | 2 | [Selection Sort](https://practice.geeksforgeeks.org/problems/selection-sort/1) | [Selection Sort](./Sorting/Selection_Sort.java) | **Basic** |
 | 3 | [Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) | [Insertion Sort](./Sorting/Insertion_Sort.java) | **Easy** |
 | 4 | [Merge Sort](https://practice.geeksforgeeks.org/problems/merge-sort/1) | [Merge Sort](./Sorting/Merge_Sort.java/String) | **Easy** |
+  
+  <br><br>
+</details>
 
-<br><br>
-
-## String
+<details>
+<summary style="font-size: 1.5em">String</summary>
+  
 | S.No | Question Link | Solution | Difficulty |
 | ---------- | ----- | ------------ | ---------: |
 | 1 | [Longest Common Prefix in an Array](https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array/0) | [Longest Common Prefix in an Array](./String/Longest_Common_Prefix_in_an_Array.java) | **Medium** |
@@ -80,9 +92,13 @@
 | 9 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [First Unique Character in a String](./String/First_Unique_Character_in_a_String.java) | **Medium** |
 | 10 | [Search Pattern](https://practice.geeksforgeeks.org/problems/8dcd25918295847b4ced54055eae35a8501181c1/1) | [Search Pattern](./String/Search_Pattern.java) | **Medium** |
 
-<br><br>
+<br><br>  
+  
+</details>
 
-## LinkedList
+<details>
+<summary style="font-size: 1.5em">LinkedList</summary>
+
 | S.No | Question Link | Solution | Difficulty |
 | ---------- | ----- | ------------ | ---------: |
 | 1 | [Finding middle element in a linked list ](https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1) | [Finding middle element in a linked list ](./LinkedList/Finding_middle_element_in_a_linked_list.java) | **Basic** |
@@ -118,7 +134,12 @@
 
 <br><br>
 
-## Tree
+  
+</details>
+
+<details>
+<summary style="font-size: 1.5em">Tree</summary>
+
 | S.No | Question Link | Solution | Difficulty |
 | ---------- | ----- | ------------ | ---------: |
 | 1 | [Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | [Left View of Binary Tree](./Tree/Left_View_of_Binary_Tree.java) | **Easy** |
@@ -155,17 +176,30 @@
 | 32 | [Sum of nodes on the longest path from root to leaf node](https://practice.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1) | [Sum of nodes on the longest path from root to leaf node](./Tree/Sum_of_nodes_on_the_longest_path_from_root_to_leaf_node.java) | **Easy** |
 
 
+<br><br>
 
 
-## Mathematics
+</details>
+
+<details>
+<summary style="font-size: 1.5em">Binary Search Tree</summary>
+  
 | S.No | Question Link | Solution | Difficulty |
 | ---------- | ----- | ------------ | ---------: |
-| 1 | [Find Nth root of M](https://practice.geeksforgeeks.org/problems/find-nth-root-of-m) | [Find Nth root of M](./Math/Find_Nth_root_of_M.java) | **Easy** |
-| 2 | [Kth Smallest Factor](https://practice.geeksforgeeks.org/problems/kth-smallest-factor2345/1) | [Kth Smallest Factor](./Math/Kth_Smallest_Factor.java) | **Easy** |
-| 3 | [Square root of a number](https://practice.geeksforgeeks.org/problems/square-root/1) | [Square root of a number](./Math/Square_root_of_a_number.java) | **Medium** |
+| 1 | [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1) | [Check for BST](./Binary_Search_Tree/Check_for_BST.java) | **Medium** |
+| 2 | [Lowest Common Ancestor in a BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1) | [Lowest Common Ancestor in a BST](./Binary_Search_Tree/Lowest_Common_Ancestor_in_a_BST.java) | **Medium** |
+| 3 | [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1#) | [Largest BST](./Binary_Search_Tree/Largest_BST.java) | **Medium** |
+| 4 | [Insert a node in a BST](https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1#) | [Insert a node in a BST](./Binary_Search_Tree/Insert_a_node_in_a_BST.java) | **Basic** |
+| 5 | [Minimum element in BST](https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1) | [Minimum element in BST](./Binary_Search_Tree/Minimum_element_in_BST.java) | **Basic** |
+| 6 | [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1#) | [Count BST nodes that lie in a given range](./Binary_Search_Tree/Count_BST_nodes_that_lie_in_a_given_range.java) | **Medium** |
+| 7 | [Flatten BST To A Sorted List](https://www.codingninjas.com/codestudio/problems/flatten-bst-to-a-sorted-list_1169459) | [Flatten BST To A Sorted List](./Binary_Search_Tree/Flatten_BST_To_A_Sorted_List.java) | **Medium** |
+  
+ <br><br>
+</details>
 
-
-## Stack and Queue
+<details>
+<summary style="font-size: 1.5em">Stack and Queue</summary>
+  
 | S.No | Question Link | Solution | Difficulty |
 | ---------- | ----- | ------------ | ---------: |
 | 1 | [Reverse Stack Using Recursion](https://www.codingninjas.com/codestudio/problems/reverse-stack-using-recursion_631875) | [Reverse Stack Using Recursion](./Stack-Queue/Reverse_Stack_Using_Recursion.java) | **Easy** |
@@ -188,8 +222,12 @@
 | 18 | [Distance of nearest cell having 1](https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1) | [Distance of nearest cell having 1](./Stack-Queue/Distance_of_nearest_cell_having_1.java) | **Medium** |
 | 19 | [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1) | [Circular tour](./Stack-Queue/Circular_tour.java) | **Medium** |
 
+<br><br>
+</details>
 
-## Dynamic Programming
+<details>
+<summary style="font-size: 1.5em">Dynamic Programming</summary>
+
 | S.No | Question Link | Solution | Difficulty |
 | ---------- | ----- | ------------ | ---------: |
 | 1 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Min Cost Climbing Stairs](./DynamicProgramming/Min_Cost_Climbing_Stairs.java) | **Easy** |
@@ -205,15 +243,18 @@
 | 11 | [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1) | [Edit Distance](./DynamicProgramming/Edit_Distance.java) | **Medium** |
 | 12 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [House Robber III](./DynamicProgramming/House_Robber_III.java) | **Medium** |
 
+<br><br>  
+  
+</details>
 
-
-## Binary Search Tree
+<details>
+<summary style="font-size: 1.5em">Mathematics</summary>
+  
 | S.No | Question Link | Solution | Difficulty |
 | ---------- | ----- | ------------ | ---------: |
-| 1 | [Check for BST](https://practice.geeksforgeeks.org/problems/check-for-bst/1) | [Check for BST](./Binary_Search_Tree/Check_for_BST.java) | **Medium** |
-| 2 | [Lowest Common Ancestor in a BST](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1) | [Lowest Common Ancestor in a BST](./Binary_Search_Tree/Lowest_Common_Ancestor_in_a_BST.java) | **Medium** |
-| 3 | [Largest BST](https://practice.geeksforgeeks.org/problems/largest-bst/1#) | [Largest BST](./Binary_Search_Tree/Largest_BST.java) | **Medium** |
-| 4 | [Insert a node in a BST](https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1#) | [Insert a node in a BST](./Binary_Search_Tree/Insert_a_node_in_a_BST.java) | **Basic** |
-| 5 | [Minimum element in BST](https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1) | [Minimum element in BST](./Binary_Search_Tree/Minimum_element_in_BST.java) | **Basic** |
-| 6 | [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1#) | [Count BST nodes that lie in a given range](./Binary_Search_Tree/Count_BST_nodes_that_lie_in_a_given_range.java) | **Medium** |
-| 7 | [Flatten BST To A Sorted List](https://www.codingninjas.com/codestudio/problems/flatten-bst-to-a-sorted-list_1169459) | [Flatten BST To A Sorted List](./Binary_Search_Tree/Flatten_BST_To_A_Sorted_List.java) | **Medium** |
+| 1 | [Find Nth root of M](https://practice.geeksforgeeks.org/problems/find-nth-root-of-m) | [Find Nth root of M](./Math/Find_Nth_root_of_M.java) | **Easy** |
+| 2 | [Kth Smallest Factor](https://practice.geeksforgeeks.org/problems/kth-smallest-factor2345/1) | [Kth Smallest Factor](./Math/Kth_Smallest_Factor.java) | **Easy** |
+| 3 | [Square root of a number](https://practice.geeksforgeeks.org/problems/square-root/1) | [Square root of a number](./Math/Square_root_of_a_number.java) | **Medium** |
+
+<br><br>
+</details>
