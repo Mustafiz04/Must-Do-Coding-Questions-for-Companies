@@ -77,6 +77,16 @@
 </details>
 
 <details>
+<summary style="font-size: 1.5em">Martix</summary>
+  
+| S.No | Question Link | Solution | Difficulty |
+| ---------- | ----- | ------------ | ---------: |
+| 1 | [Spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | [Spirally traversing a matrix](./Matrix/Spirally_traversing_a_matrix.java) | **Medium** |
+  
+  <br><br>
+</details>
+
+<details>
 <summary style="font-size: 1.5em">String</summary>
   
 | S.No | Question Link | Solution | Difficulty |
