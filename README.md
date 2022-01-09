@@ -83,6 +83,7 @@
 | ---------- | ----- | ------------ | ---------: |
 | 1 | [Spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | [Spirally traversing a matrix](./Matrix/Spirally_traversing_a_matrix.java) | **Medium** |
 | 2 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Search a 2D Matrix](./Matrix/Search_a_2D_Matrix.java) | **Medium** |
+| 3 | [Row with max 1s](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1) | [Row with max 1s](./Matrix/Row_with_max_1s.java) | **Medium** |
   
   <br><br>
 </details>
