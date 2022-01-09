@@ -38,6 +38,7 @@
 | 29 | [Valid Substring](https://practice.geeksforgeeks.org/problems/valid-substring0624/1) | [Valid Substring](./Array/Valid_Substring.java) | **Easy** |
 | 30 | [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/) | [The Celebrity Problem](./Array/The_Celebrity_Problem.java) | **Medium** |
 | 31 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Median of Two Sorted Arrays](./Array/Median_of_Two_Sorted_Arrays.java) | **Medium** |
+| 32 | [Maximum Rectangular Area in a Histogram](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1) | [Maximum Rectangular Area in a Histogram](./Array/Maximum_Rectangular_Area_in_a_Histogram.java) | **Medium** |
 
   <br><br>
   
