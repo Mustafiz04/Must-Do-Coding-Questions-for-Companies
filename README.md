@@ -191,6 +191,7 @@
 | 30 | [Duplicate Subtrees](https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1#) | [Duplicate Subtrees](./Tree/Duplicate_Subtrees.java) | **Medium** |
 | 31 | [Maximum sum of Non-adjacent nodes](https://practice.geeksforgeeks.org/problems/maximum-sum-of-non-adjacent-nodes/1/) | [Maximum sum of Non-adjacent nodes](./Tree/Maximum_sum_of_Non-adjacent_nodes.java) | **Medium** |
 | 32 | [Sum of nodes on the longest path from root to leaf node](https://practice.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1) | [Sum of nodes on the longest path from root to leaf node](./Tree/Sum_of_nodes_on_the_longest_path_from_root_to_leaf_node.java) | **Easy** |
+| 33 | [Clone a Binary Tree](https://practice.geeksforgeeks.org/problems/clone-a-binary-tree/1) | [Clone a Binary Tree](./Tree/Clone_a_Binary_Tree.java) | **Medium** |
 
 
 <br><br>
