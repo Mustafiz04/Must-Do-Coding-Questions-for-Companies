@@ -41,4 +41,30 @@ class Solution {
     }
     return -1;
   }
+
+  // public static int findMajority(int[] arr, int n) {
+  //   int majority = 0, count = 1;
+  //   for (int i = 1; i < n; i++) {
+  //     if (arr[i] == arr[majority]) {
+  //       count++;
+  //     } else {
+  //       count--;
+  //     }
+  //     if (count == 0) {
+  //       count = 1;
+  //       majority = i;
+  //     }
+  //   }
+  //   return isMajority(arr, n, arr[majority]) ? arr[majority] : -1;
+  // }
+
+  // public static boolean isMajority(int[] arr, int n, int majority) {
+  //   int count = 0;
+  //   for (int i = 0; i < n; i++) {
+  //     if (arr[i] == majority) {
+  //       count++;
+  //     }
+  //   }
+  //   return count > n / 2 ? true : false;
+  // }
 }
