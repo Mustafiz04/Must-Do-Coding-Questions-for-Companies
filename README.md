@@ -214,6 +214,7 @@
 | 6 | [Count BST nodes that lie in a given range](https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1#) | [Count BST nodes that lie in a given range](./Binary_Search_Tree/Count_BST_nodes_that_lie_in_a_given_range.java) | **Medium** |
 | 7 | [Flatten BST To A Sorted List](https://www.codingninjas.com/codestudio/problems/flatten-bst-to-a-sorted-list_1169459) | [Flatten BST To A Sorted List](./Binary_Search_Tree/Flatten_BST_To_A_Sorted_List.java) | **Medium** |
 | 8 | [Preorder to Postorder](https://practice.geeksforgeeks.org/problems/preorder-to-postorder4423/1) | [Preorder to Postorder](./Binary_Search_Tree/Preorder_to_Postorder.java) | **Medium** |
+| 9 | [Normal BST to Balanced BST](https://practice.geeksforgeeks.org/problems/normal-bst-to-balanced-bst/1/) | [Normal BST to Balanced BST](./Binary_Search_Tree/Normal_BST_to_Balanced_BST.java) | **Easy** |
   
  <br><br>
 </details>
