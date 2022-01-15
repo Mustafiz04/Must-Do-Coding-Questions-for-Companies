@@ -147,6 +147,7 @@
 | 28 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Flatten Binary Tree to Linked List](./LinkedList/Flatten_Binary_Tree_to_Linked_List.java) | **Medium** |
 | 29 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Swapping Nodes in a Linked List](./LinkedList/Swapping_Nodes_in_a_Linked_List.java) | **Medium** |
 | 30 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [Merge In Between Linked Lists](./LinkedList/Merge_In_Between_Linked_Lists.java) | **Medium** |
+| 31 | [Delete node in Doubly Linked List](https://practice.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1) | [Delete node in Doubly Linked List](./LinkedList/Delete_node_in_DLL.java) | **Basic** |
 
 
 <br><br>
