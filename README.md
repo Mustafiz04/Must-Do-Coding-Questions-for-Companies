@@ -89,6 +89,7 @@
 | 5 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Maximal Square](./Matrix/Maximal_Square.java) | **Medium** |
 | 6 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Rotate Image](./Matrix/Rotate_Image.java) | **Medium** |
 | 7 | [Common Elements Present In All Rows Of Matrix](https://www.codingninjas.com/codestudio/problems/common-elements-present-in-all-rows-of-a-matrix_1118111?) | [Common Elements Present In All Rows Of Matrix](./Matrix/Common_Elements_Present_In_All_Rows_Of_Matrix.java) | **Medium** |
+| 8 | [Solve the Sudoku](https://practice.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1) | [Solve the Sudoku](./Matrix/Solve_the_Sudoku.java) | **Medium** |
   
   <br><br>
 </details>
@@ -195,6 +196,7 @@
 | 33 | [Clone a Binary Tree](https://practice.geeksforgeeks.org/problems/clone-a-binary-tree/1) | [Clone a Binary Tree](./Tree/Clone_a_Binary_Tree.java) | **Medium** |
 | 34 | [K distance from root](https://practice.geeksforgeeks.org/problems/k-distance-from-root/1) | [K distance from root](./Tree/K_distance_from_root.java) | **Easy** |
 | 35 | [Diagonal Sum In Binary Tree](https://practice.geeksforgeeks.org/problems/diagonal-sum-in-binary-tree/1) | [Diagonal Sum In Binary Tree](./Tree/Diagonal_Sum_In_Binary_Tree.java) | **Easy** |
+| 36 | [Perfect Binary Tree](https://practice.geeksforgeeks.org/problems/perfect-binary-tree/1/) | [Perfect Binary Tree](./Tree/Perfect_Binary_Tree.java) | **Easy** |
 
 
 <br><br>
