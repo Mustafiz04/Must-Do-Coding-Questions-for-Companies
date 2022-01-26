@@ -269,6 +269,7 @@
 | 10 | [Maximum path sum in matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1) | [Maximum path sum in matrix](./DynamicProgramming/Maximum_path_sum_in_matrix.java) | **Medium** |
 | 11 | [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1) | [Edit Distance](./DynamicProgramming/Edit_Distance.java) | **Medium** |
 | 12 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [House Robber III](./DynamicProgramming/House_Robber_III.java) | **Medium** |
+| 13 | [Minimum sum partition](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/#) | [Minimum sum partition](./DynamicProgramming/House_Robber_III.java) | **Hard** |
 
 <br><br>  
   
