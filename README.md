@@ -269,7 +269,10 @@
 | 10 | [Maximum path sum in matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1) | [Maximum path sum in matrix](./DynamicProgramming/Maximum_path_sum_in_matrix.java) | **Medium** |
 | 11 | [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1) | [Edit Distance](./DynamicProgramming/Edit_Distance.java) | **Medium** |
 | 12 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [House Robber III](./DynamicProgramming/House_Robber_III.java) | **Medium** |
-| 13 | [Minimum sum partition](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/#) | [Minimum sum partition](./DynamicProgramming/House_Robber_III.java) | **Hard** |
+| 13 | [Minimum sum partition](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/#) | [Minimum sum partition](./DynamicProgramming/Minimum_sum_partition.java) | **Hard** |
+| 14 | [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1/) | [Subset Sum Problem](./DynamicProgramming/Subset_Sum_Problem.java) | **Medium** |
+| 15 | [Partition Equal Subset Sum](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1) | [Partition Equal Subset Sum](./DynamicProgramming/Partition_Equal_Subset_Sum.java) | **Medium** |
+| 16 | [Knapsack with Duplicate Items](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1/#) | [Knapsack with Duplicate Items](./DynamicProgramming/Knapsack_with_Duplicate_Items.java) | **Medium** |
 
 <br><br>  
   
