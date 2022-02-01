@@ -277,6 +277,7 @@
 | 18 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Coin Change 2](./DynamicProgramming/Coin_Change_2.java) | **Medium** |
 | 19 | [Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1/#) | [Longest Common Substring](./DynamicProgramming/Longest_Common_Substring.java) | **Medium** |
 | 20 | [Longest Palindromic Subsequence](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1/) | [Longest Palindromic Subsequence](./DynamicProgramming/Longest_Palindromic_Subsequence.java) | **Medium** |
+| 21 | [Minimum number of deletions and insertions](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1/) | [Minimum number of deletions and insertions](./DynamicProgramming/Minimum_number_of_deletions_and_insertions.java) | **Easy** |
 
 <br><br>  
   
