@@ -273,6 +273,10 @@
 | 14 | [Subset Sum Problem](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1/) | [Subset Sum Problem](./DynamicProgramming/Subset_Sum_Problem.java) | **Medium** |
 | 15 | [Partition Equal Subset Sum](https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1) | [Partition Equal Subset Sum](./DynamicProgramming/Partition_Equal_Subset_Sum.java) | **Medium** |
 | 16 | [Knapsack with Duplicate Items](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1/#) | [Knapsack with Duplicate Items](./DynamicProgramming/Knapsack_with_Duplicate_Items.java) | **Medium** |
+| 17 | [Rod Cutting](https://practice.geeksforgeeks.org/problems/rod-cutting0840/1/#) | [Rod Cutting](./DynamicProgramming/Rod_Cutting.java) | **Medium** |
+| 18 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Coin Change 2](./DynamicProgramming/Coin_Change_2.java) | **Medium** |
+| 19 | [Longest Common Substring](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1/#) | [Longest Common Substring](./DynamicProgramming/Longest_Common_Substring.java) | **Medium** |
+| 20 | [Longest Palindromic Subsequence](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1/) | [Longest Palindromic Subsequence](./DynamicProgramming/Longest_Palindromic_Subsequence.java) | **Medium** |
 
 <br><br>  
   
