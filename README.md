@@ -280,6 +280,7 @@
 | 21 | [Minimum number of deletions and insertions](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1/) | [Minimum number of deletions and insertions](./DynamicProgramming/Minimum_number_of_deletions_and_insertions.java) | **Easy** |
 | 22 | [Shortest Common Supersequence](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1/) | [Shortest Common Supersequence](./DynamicProgramming/Shortest_Common_Supersequence.java) | **Medium** |
 | 23 | [Minimum number of deletions](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions4610/1/) | [Minimum number of deletions](./DynamicProgramming/Minimum_number_of_deletions.java) | **Easy** |
+| 24 | [Longest Repeating Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1) | [Longest Repeating Subsequence](./DynamicProgramming/Longest_Repeating_Subsequence.java) | **Easy** |
 
 <br><br>  
   
